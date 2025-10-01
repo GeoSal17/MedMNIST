@@ -133,4 +133,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+keras_tuner_dir*
+trial*
 keras_tuner_dir/
